@@ -64,6 +64,14 @@ The following frameworks and techniques are evaluated:
 ## Key Results
 
 <p align="center">
+  <img src="flow.png" alt="Inpainting sample" width="800">
+</p>
+
+<p align="center">
+  <em>Decision flow for selecting quantization strategies (QAT, PTQ, DFQ) for neural network deployment based on data availability in edge-device pipelines.</em>
+</p>
+
+<p align="center">
   <img src="Result_table.png" alt="Inpainting sample" width="800">
 </p>
 

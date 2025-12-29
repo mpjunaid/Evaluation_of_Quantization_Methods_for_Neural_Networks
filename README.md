@@ -97,6 +97,7 @@ The complete Master’s thesis associated with this work is publicly available a
 **Date:** 22 December 2022  
 **Type:** Student thesis (Master’s)  
 
+📄 **PDF:** *Thesis PPT.pptx* 
 📄 **PDF:** *Evaluation of Quantization Methods for Neural Networks.pdf*  
 🔗 **Official repository link:**  
 https://research.tue.nl/en/studentTheses/evaluation-of-quantization-methods-for-neural-networks/

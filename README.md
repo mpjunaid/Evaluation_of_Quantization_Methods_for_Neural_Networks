@@ -7,7 +7,7 @@ Neural networks are widely used in machine learning applications. However, their
 This repository presents an **evaluation and characterization of state-of-the-art neural network quantization methods** applied to **image classification** and **object detection** tasks. The work focuses on understanding the trade-offs between model compression and performance, particularly in the context of **edge devices and tinyML applications**.
 
 <p align="center">
-  <img src="flow.png" alt="Inpainting sample" width="400">
+  <img src="flow.png" alt="Inpainting sample" width="800">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ The following frameworks and techniques are evaluated:
 ## Key Results
 
 <p align="center">
-  <img src="Result_table.png" alt="Inpainting sample" width="400">
+  <img src="Result_table.png" alt="Inpainting sample" width="800">
 </p>
 
 <p align="center">
@@ -88,3 +88,17 @@ The following frameworks and techniques are evaluated:
 This work bridges the gap between **academic quantization research** and **industrial deployment requirements**, especially for edge and embedded systems. It highlights the maturity of quantization frameworks for image classification while identifying limitations and future needs for object detection models.
 
 
+## Thesis Document
+
+The complete Master’s thesis associated with this work is publicly available as a PDF.
+
+**Title:** *Evaluation of Quantization Methods for Neural Networks*  
+**Author:** Mundichipparakkal, J.  
+**Date:** 22 December 2022  
+**Type:** Student thesis (Master’s)  
+
+📄 **PDF:** *Evaluation of Quantization Methods for Neural Networks.pdf*  
+🔗 **Official repository link:**  
+https://research.tue.nl/en/studentTheses/evaluation-of-quantization-methods-for-neural-networks/
+
+This document provides the full theoretical background, experimental setup, quantitative results, and detailed analysis of the quantization methods evaluated in this repository.
